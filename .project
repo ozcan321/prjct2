@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>C464_Project_KMeans</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/breast-cancer.txt</name>
+			<type>1</type>
+			<location>C:/Users/Satellite A300-15B/Documents/Eclipse/Workspace/C464_Project_KMeans/src/breast-cancer.txt</location>
+		</link>
+		<link>
+			<name>src/housing.txt</name>
+			<type>1</type>
+			<location>C:/Users/Satellite A300-15B/Documents/Eclipse/Workspace/C464_Project_KMeans/src/housing.txt</location>
+		</link>
+	</linkedResources>
+</projectDescription>
